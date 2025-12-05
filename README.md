@@ -5,7 +5,7 @@ The goal is to model relationships between past crime patterns, socioeconomic in
 
 This project is part of our work in the UC Berkeley Master of Information & Data Science (MIDS) program
 
-Authors
+## Authors
 - Kadin Wilkins
 - Matilda Orona
 - Vikram Magal
